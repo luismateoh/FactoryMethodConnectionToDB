@@ -1,0 +1,3 @@
+public enum TypeDataBase {
+    MONGODB, MYSQL, SQLSERVER, ORACLE, POSTGRESQL
+}
